@@ -1,3 +1,4 @@
+#Este metodo calcula la propina
 def CalcularPropina(Total, Porc):
     return Total + (Total * Porc/100)
     
